@@ -3,4 +3,6 @@ This project demonstrates the SIR (Susceptible, Infected, Recovered) model appli
 
 I am not an epidemiologist, and this analysis is not meant to provide professional or real-world insights into disease spread. The results and visualizations are purely hypothetical and meant to showcase technical and coding skills.
 
+The dataset is available in "US Measles Cases and Deaths (OWID, 2017)" 
+
 Refer to the "SIR Predictive Analysis Project Description" for more information
