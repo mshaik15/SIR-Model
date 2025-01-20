@@ -9,10 +9,10 @@ Refer to the "SIR Predictive Analysis Project Description" for more information 
 
 
 ### Contributors
-- [Zayn Bhatti](https://github.com/ZelkZayn)
-- [Jeremiah Chulliyadan](https://github.com/jeremiahC77)  <!-- Add the correct GitHub URL here -->
-- [Nandan Varma](https://github.com/NandanV23?tab=overview&from=2022-12-01&to=2022-12-31)
-- [Huzayfa Jasat](https://github.com/huzayfa-jasat?tab=overview&from=2025-01-01&to=2025-01-20)
+- [Zayn](https://github.com/ZelkZayn)
+- [Jeremiah](https://github.com/jeremiahC77)  <!-- Add the correct GitHub URL here -->
+- [Nandan](https://github.com/NandanV23?tab=overview&from=2022-12-01&to=2022-12-31)
+- [Huzayfa](https://github.com/huzayfa-jasat?tab=overview&from=2025-01-01&to=2025-01-20)
 
 
 
