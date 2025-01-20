@@ -6,3 +6,7 @@ I am not an epidemiologist, and this analysis is not meant to provide profession
 The dataset is available in "US Measles Cases and Deaths (OWID, 2017)" or https://github.com/owid/owid-datasets/blob/master/datasets/US%20Measles%20Cases%20and%20Deaths%20(OWID%2C%202017)/US%20Measles%20Cases%20and%20Deaths%20(OWID%2C%202017).csv 
 
 Refer to the "SIR Predictive Analysis Project Description" for more information on data and implementation
+
+# Contributions
+@huzayfa-jasat
+@NandanV23
