@@ -95,12 +95,6 @@ The model's prediction is approximately 58.18% accurate, indicating that it over
 - Lines copied and pasted from external sources have been given in-text citation at the end of the respective sentence
 
 
-### Contributors
-- [Zayn](https://github.com/ZelkZayn)
-- [Jeremiah](https://github.com/jeremiahC77)  <!-- Add the correct GitHub URL here -->
-- [Nandan](https://github.com/NandanV23?tab=overview&from=2022-12-01&to=2022-12-31)
-- [Huzayfa](https://github.com/huzayfa-jasat?tab=overview&from=2025-01-01&to=2025-01-20)
-
 
 
 
