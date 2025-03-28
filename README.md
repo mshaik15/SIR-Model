@@ -54,19 +54,19 @@ Note: This project was created by Mohammed Rehan Ali Shaik. Tested by contributo
 
 ## Results
 #### Comparrison Data taken from $[6]$
-In 2017, the United States reported 120 cases of measles, significantly higher than the usual annual reports of 1 to 2 cases, largely due to an outbreak in a largely unvaccinated Somali community in Minnesota. $[6]$ According to the predictions made by the SIR (Susceptible-Infected-Recovered) model, the estimated number of infections for the same year was 170.11.
+In 2017, the United States reported 120 cases of measles, significantly higher than the usual annual reports of 1 to 2 cases, largely due to an outbreak in a largely unvaccinated Somali community in Minnesota. $[6]$ According to the predictions made by the SIR (Susceptible-Infected-Recovered) model, the estimated number of infections for the same year was 146.38.
 
 $$
 \text{Accuracy} = \left( 1 - \frac{| \text{Predicted} - \text{Actual} |}{\text{Actual}} \right) \times 100
 $$
 
-Using the predicted value of 170.11 and the actual value of 120:
+Using the predicted value of 146.38 and the actual value of 120:
 
 $$
-\text{Accuracy} = \left( 1 - \frac{|170.11 - 120|}{120} \right) \times 100 = \left( 1 - \frac{50.11}{120} \right) \times 100 \approx 58.18\%
+\text{Accuracy} = \left( 1 - \frac{|146.38 - 120|}{120} \right) \times 100 = \left( 1 - \frac{26.38}{120} \right) \times 100 \approx 78 \%
 $$
 
-The model's prediction is approximately 58.18% accurate, indicating that it overestimated the number of infections. This suggests the model may not fully capture the complexity of the outbreak and could benefit from further refinement and adjustments.
+The model's prediction is approximately 78% accurate, indicating that it overestimated the number of infections. This suggests the model may not fully capture the complexity of the outbreak and could benefit from further refinement and adjustments.
 
 ## Improvements
 
