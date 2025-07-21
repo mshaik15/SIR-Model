@@ -1,6 +1,4 @@
 # SIR Predictive Analysis Project
-### By: Mohammed Rehan
-Contributions: Zayn Bhatti, Jeremiah Chulliyadan, Nandan Varma, Huzayfa Jasat
 
 ## Introduction
 This project explores the application of epidemiological models used to analyze and predict the spread of measles in the United States for the next 20 years. The SIR model is used to preform a predictive analysis using historical data on U.S. measles cases.
